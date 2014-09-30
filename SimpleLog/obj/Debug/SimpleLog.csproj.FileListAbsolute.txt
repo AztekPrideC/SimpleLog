@@ -1,0 +1,5 @@
+C:\Users\Roberto\UGM\Programas\SimpleLog\SimpleLog\bin\Debug\SimpleLog.dll
+C:\Users\Roberto\UGM\Programas\SimpleLog\SimpleLog\bin\Debug\SimpleLog.pdb
+C:\Users\Roberto\UGM\Programas\SimpleLog\SimpleLog\obj\Debug\SimpleLog.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\UGM\Programas\SimpleLog\SimpleLog\obj\Debug\SimpleLog.dll
+C:\Users\Roberto\UGM\Programas\SimpleLog\SimpleLog\obj\Debug\SimpleLog.pdb
